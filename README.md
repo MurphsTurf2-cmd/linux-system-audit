@@ -1,2 +1,16 @@
-# linux-system-audit
-Developed a Bash script to collect and analyze system information including users, processes, and disk usage Automated reporting by generating system audit output files Utilized core Linux commands for system administration tasks
+# Linux System Audit Script
+
+This project is a basic Linux system audit script that collects and displays system information.
+
+## Features
+- Displays system info
+- Shows logged-in users
+- Checks disk usage
+- Lists running processes
+
+## Tools Used
+- Bash scripting
+- Linux command line
+
+## Purpose
+Built to practice Linux system administration and basic security auditing.
